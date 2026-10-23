@@ -1,0 +1,16 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+
+using namespace std;
+int main() {
+    int a,b;
+    cout<<"Enter the 1st number:-";
+    cin>>a;
+    cout<<"Enter the 2nd number:-";
+    cin>>b;
+    if(a>b){cout<<a;}
+    else{cout<<b;}
+    return 0;
+}

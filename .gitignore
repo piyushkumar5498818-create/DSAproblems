@@ -1,0 +1,48 @@
+# Compiled Executables & Debug Symbols
+*.o
+*.out
+*.exe
+*.app
+*.dSYM/
+a.out
+*.zip
+
+# Compiled binaries from root & subdirectories
+Piyush
+even
+traingle
+insert
+marks
+css
+maximum
+voting
+coomon
+fivedigits
+g
+div3&5
+rectangle
+ilessthanj
+leap
+DJ
+disc
+emptyforloop
+largest3
+tf100
+main
+pyramiad
+quie
+prime
+butterflypattern
+P
+mxn
+
+# macOS / OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Editor directories
+.vscode/
+.idea/
