@@ -12,7 +12,8 @@ A structured collection of C++ solutions, algorithm templates, and practice prob
   - [3. Number Theory & Digit Logic](#3-number-theory--digit-logic)
   - [4. Pattern Printing Formula](#4-pattern-printing-formula)
 - [Repository Topic Index](#-repository-topic-index)
-- [Comprehensive Midterm Notes](#-comprehensive-midterm-notes)
+- [Comprehensive Pattern Printing Handbook & Code (`pattern_problems/`)](./pattern_problems/README.md)
+- [Comprehensive Midterm Notes](./MIDTERM_NOTES.md)
 - [How to Compile and Run](#-how-to-compile-and-run)
 
 ---
@@ -155,6 +156,14 @@ for (int i = 1; i <= N; i++) {           // 1. Row control
 │   └── array.cpp               (Array pass-by-pointer demonstration)
 │
 └── Patterns
+    ├── pattern_problems/       (Complete patterns library & handbook)
+    │   ├── README.md           (The 10-second linear formula & cheat sheets)
+    │   ├── 01_basic_triangles.cpp
+    │   ├── 02_pyramids_and_diamonds.cpp
+    │   ├── 03_hourglass_patterns.cpp
+    │   ├── 04_number_and_character_patterns.cpp
+    │   ├── 05_hollow_and_wings.cpp
+    │   └── 06_coordinate_and_advanced.cpp
     ├── swastik.cpp             (Grid pattern)
     ├── diamond.cpp             (Diamond star pattern)
     ├── pyrmaidwithnums.cpp     (Palindromic number pyramid)
